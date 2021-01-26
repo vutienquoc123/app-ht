@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="19" viewBox="0 0 17 19">
+  <g id="list" transform="translate(0 -0.5)">
+    <path id="Path_44" data-name="Path 44" d="M0,.5v19H17V.5ZM16.433,18.856H.567V1.144H16.433Z" transform="translate(0 0)"/>
+    <path id="Path_45" data-name="Path 45" d="M11.614,12.729A1.614,1.614,0,1,0,10,11.114,1.616,1.616,0,0,0,11.614,12.729Zm0-2.583a.969.969,0,1,1-.969.969A.97.97,0,0,1,11.614,10.146Z" transform="translate(-7.246 -6.103)"/>
+    <path id="Path_46" data-name="Path 46" d="M11.614,28.729A1.614,1.614,0,1,0,10,27.114,1.616,1.616,0,0,0,11.614,28.729Zm0-2.583a.969.969,0,1,1-.969.969A.97.97,0,0,1,11.614,26.146Z" transform="translate(-7.246 -16.954)"/>
+    <path id="Path_47" data-name="Path 47" d="M11.614,44.729A1.614,1.614,0,1,0,10,43.114,1.616,1.616,0,0,0,11.614,44.729Zm0-2.583a.969.969,0,1,1-.969.969A.97.97,0,0,1,11.614,42.146Z" transform="translate(-7.246 -27.812)"/>
+    <path id="Path_48" data-name="Path 48" d="M24.323,14.146H31.75a.323.323,0,0,0,0-.646H24.323a.323.323,0,0,0,0,.646Z" transform="translate(-17.878 -8.814)"/>
+    <path id="Path_49" data-name="Path 49" d="M24.323,30.146H31.75a.323.323,0,0,0,0-.646H24.323a.323.323,0,1,0,0,.646Z" transform="translate(-17.878 -19.662)"/>
+    <path id="Path_50" data-name="Path 50" d="M24.323,46.146H31.75a.323.323,0,0,0,0-.646H24.323a.323.323,0,0,0,0,.646Z" transform="translate(-17.878 -30.51)"/>
+  </g>
+</svg>
